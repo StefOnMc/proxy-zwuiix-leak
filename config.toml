@@ -1,0 +1,9 @@
+
+[Connection]
+DEFAULT = "192.168.1.92"
+
+IP = "azoria-mc.fr"
+PORT = "19132"
+
+[Settings]
+PREFIX = "/*"
