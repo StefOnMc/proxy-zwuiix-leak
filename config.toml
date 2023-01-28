@@ -1,6 +1,6 @@
 
 [Connection]
-DEFAULT = "192.168.1.92"
+DEFAULT = "0.0.0.0"
 
 IP = "azoria-mc.fr"
 PORT = "19132"
